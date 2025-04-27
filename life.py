@@ -1,5 +1,4 @@
-# pico_life_v1_final.py
-# Genetic Life v1.0 - PicoCalc MicroPython Educational Demo
+# Conway's Game of Life - PicoCalc MicroPython Educational Demo
 #
 # Author: Daniel Gentleman (daniel@danielgentleman.com)
 # License: Apache 2.0
