@@ -1,6 +1,7 @@
-# Conway's Game of Life - PicoCalc MicroPython Educational Demo
+# game_of_life.py
+# Life v1.2 - PicoCalc MicroPython Demo
 #
-# Author: Daniel Gentleman (code@danielgentleman.com)
+# code@danielgentleman.com
 # License: Apache 2.0
 #
 # A simple implementation of Conway's Game of Life
@@ -8,20 +9,6 @@
 # using MicroPython and a 16-color indexed display.
 #
 # Demonstrates: Screen drawing, keyboard input, timing control.
-
-# ================== LICENSE ==================
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-# ==============================================
 
 import picocalc
 import random
@@ -159,3 +146,4 @@ display.fill(0)
 display.show()
 print("Program ended. Back to REPL.")
 time.sleep(1)
+
