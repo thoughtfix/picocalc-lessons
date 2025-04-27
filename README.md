@@ -1,9 +1,4 @@
 # picocalc-lessons
-Demo software to help people use MicroPython on PicoCalc
-
-
-
-# picocalc-lessons
 
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -83,7 +78,7 @@ All code is licensed under the Apache License 2.0—feel free to re-use, remix, 
 - [Official PicoCalc page](https://www.clockworkpi.com/picocalc)
 -  [ClockworkPi GitHub](https://github.com/clockworkpi)  
 -  [ClockworkPi Discord](https://discord.gg/XKGGkPM) 
--  [PicoCalc Micropython Drivers](https://github.com/zenodante/PicoCalc-micropython-driver) by zerodante
+-  [PicoCalc Micropython Drivers](https://github.com/zenodante/PicoCalc-micropython-driver) by zenodante
 -  [MicroPython Official Website](https://micropython.org/)  
 -  [MicroPython Documentation](https://docs.micropython.org/)  
 -  [Thonny IDE](https://thonny.org/)  
