@@ -1,6 +1,6 @@
 # Conway's Game of Life - PicoCalc MicroPython Educational Demo
 #
-# Author: Daniel Gentleman (daniel@danielgentleman.com)
+# Author: Daniel Gentleman (code@danielgentleman.com)
 # License: Apache 2.0
 #
 # A simple implementation of Conway's Game of Life
