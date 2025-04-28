@@ -2,7 +2,7 @@
 
 This module (`picocalc_keymap.py`) provides a simple way to translate raw ASCII keypress codes from the ClockworkPi PicoCalc keyboard into human-readable names.
 
-It is intended to be reused across all PicoCalc projects: calculators, games, shells, menus, etc.
+It is intended to be reused across all PicoCalc projects: calculators, games, shells, menus, etc. For a deeper look, check out the [drivers by zenodante](https://github.com/zenodante/PicoCalc-micropython-driver). It's important that this is for MICROPYTHON ONLY. If you are using PicoMite BASIC, check out the [default code](https://github.com/clockworkpi/PicoCalc/tree/master/Code).
 
 ---
 
