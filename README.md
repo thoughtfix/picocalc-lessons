@@ -2,6 +2,12 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
+## Warning
+This code is incomplete and won't always function as expected. While the programs run in Thonny when you click "run" some changes need to be made to get them to run natively on the picocalc. 
+- The programs init the display, but the picocalc shell already has it initialized.
+- The programs run their primary code in main() but `import scriptname` does not execute main() by default.
+- There are a lot more quirks, and more research and tools are being created. Skim `picalc_menu_research_full.md` for an LLM summary (LLMs can make mistakes - it's being fact checked) of discoveries.
+
 ## Table of Contents
 
 - [Overview](#overview)  
